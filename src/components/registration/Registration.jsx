@@ -2,7 +2,6 @@ import React from 'react';
 import "./registration.css"
 import Input from "../../utils/input/Input";
 
-
 const Registration = () => {
     return (
         <div className= "registration">

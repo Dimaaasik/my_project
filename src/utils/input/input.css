@@ -12,7 +12,7 @@ input:focus {
 ::-webkit-input-placeholder {
   /* Chrome */
   color: #481d1d;
-  font-weight: 700;
+  font-weight: 70;
 }
 :-ms-input-placeholder {
   /* IE 10+ */
